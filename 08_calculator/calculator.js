@@ -43,7 +43,6 @@ const factorial = function(a)
     console.log(result);
     return result;
   }
-  return result;
 };
 
 // Do not edit below this line
